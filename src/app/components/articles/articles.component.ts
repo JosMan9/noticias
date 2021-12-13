@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Article } from '../../interfaces/index';
+import { Article } from '../../interfaces';
 
 @Component({
   selector: 'app-articles',
